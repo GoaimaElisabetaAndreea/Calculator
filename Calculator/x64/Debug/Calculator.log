@@ -1,0 +1,13 @@
+﻿  Expresie.cpp
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.cpp(1,9): warning C4068: unknown pragma 'GCC'
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.hpp(1,9): warning C4068: unknown pragma 'GCC'
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.cpp(404,35): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.cpp(408,35): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.cpp(412,35): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.cpp(418,39): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.cpp(428,35): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.cpp(432,35): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+  Interfata.cpp
+C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\Calculator\Expresie.hpp(1,9): warning C4068: unknown pragma 'GCC'
+  Generating Code...
+  Calculator.vcxproj -> C:\Users\elisa\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++ Project\Calculator\x64\Debug\Calculator.exe
