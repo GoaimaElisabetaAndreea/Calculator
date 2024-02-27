@@ -1,0 +1,1 @@
+This code evaluates arithmetic expressions that contain parentheses. It supports addition, subtraction, multiplication, division, square root, and exponentiation operations. It does not use the standard template library (STL). It only works on single-digit numbers.
